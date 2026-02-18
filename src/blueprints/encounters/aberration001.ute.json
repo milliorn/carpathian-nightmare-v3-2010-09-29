@@ -1,0 +1,209 @@
+{
+  "__data_type": "UTE ",
+  "Active": {
+    "type": "byte",
+    "value": 1
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "CreatureList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 54
+        },
+        "CR": {
+          "type": "float",
+          "value": 30.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "battdevour003"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 24
+        },
+        "CR": {
+          "type": "float",
+          "value": 30.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "golbone001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 88
+        },
+        "CR": {
+          "type": "float",
+          "value": 30.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "golflesh001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 102
+        },
+        "CR": {
+          "type": "float",
+          "value": 30.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "horror001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 117
+        },
+        "CR": {
+          "type": "float",
+          "value": 30.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "devour001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 168
+        },
+        "CR": {
+          "type": "float",
+          "value": 30.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "umberhulk001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "Difficulty": {
+    "type": "int",
+    "value": 0
+  },
+  "DifficultyIndex": {
+    "type": "int",
+    "value": 4
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Apuseni Caves CR 30",
+      "id": 14460
+    }
+  },
+  "MaxCreatures": {
+    "type": "int",
+    "value": 2
+  },
+  "OnEntered": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnExhausted": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnExit": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnHeartbeat": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnUserDefined": {
+    "type": "resref",
+    "value": ""
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 0
+  },
+  "PlayerOnly": {
+    "type": "byte",
+    "value": 1
+  },
+  "RecCreatures": {
+    "type": "int",
+    "value": 2
+  },
+  "Reset": {
+    "type": "byte",
+    "value": 1
+  },
+  "ResetTime": {
+    "type": "int",
+    "value": 90
+  },
+  "Respawns": {
+    "type": "int",
+    "value": -1
+  },
+  "SpawnOption": {
+    "type": "int",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "ApuseniCavesCR30"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "aberration001"
+  }
+}

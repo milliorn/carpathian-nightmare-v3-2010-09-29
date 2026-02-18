@@ -1,0 +1,219 @@
+{
+  "__data_type": "UTP ",
+  "AnimationState": {
+    "type": "byte",
+    "value": 0
+  },
+  "Appearance": {
+    "type": "dword",
+    "value": 56
+  },
+  "AutoRemoveKey": {
+    "type": "byte",
+    "value": 0
+  },
+  "BodyBag": {
+    "type": "byte",
+    "value": 0
+  },
+  "CloseLockDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Conversation": {
+    "type": "resref",
+    "value": ""
+  },
+  "CurrentHP": {
+    "type": "short",
+    "value": 10
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "This sign was last updated on 28th March 2008.\n\nThe special summoning system I designed gives your creatures bonus stats. The bonus stats are: AB/AC/Saves/Damage Bonus/HP Bonus. There are 7 levels of summon bonuses.\n<có ó>For every 10 levels of caster after level 5, you get 1 \"Bonus\" level towards summon bonuses.\nFor each Spell Focus Conjuration feat, you also get +1 for each.\n\nEpic Spell Focus: Conjuration activates certain other summon abilities, such as a special summon with Summon Creature IX.</c>\n\nThese spells have been changed:\n\n<có ó>Summon Creature I to IX </c>\n<cþf > These creatures are much more powerful now and based on your Good - Evil alignment. Summon Creature IX will summon a special, more powerful creature if you have ::Epic Spell Focus - Conjuration::\nAnimal domain clerics get each summon spell earlier. </c>\n\n<có ó>Shelgarn's Persistant Blade </c>\n<cþf >Summons a dagger at levels 1-9, a katana otherwise.\nAt level 5 the dagger gains 1d4 sonic damage.\nAt level 10 the dagger gains 2d4 sonic damage.\nAt level 15+ the dagger gains 2d8 sonic damage. </c>\n\n<có ó>Elemental Swarm (Druid) </c>\n<cþf >Summons 4 Elemental creatures when the creature dies. \nThere's a 1 in 20 chance that the 2nd/3rd/4th creatures will be of the \"special\" variety.\n::Epic Spell Focus - Conjuration:: increases the odds of getting a special summon, 1 in 6.</c>\n\n<có ó>Planar Binding Series </c>\n<cþf >The creatures summoned are more powerful and have unique characteristics based on alignment. \nThis spell loses the \"Hold Outsider\" ability when targetted at any Outsider. (Use Hold Monster or whatever instead)</c>\n\n<có ó>Black Blade of Disaster </c>\n<cþf >This is now a much more damaging summon to use. You will need to maintain concentration still.\nDeals 1d8 extra magical damage at level 25\nDeals 2d8 extra magical damage at level 30\nDeals 2d8 extra magical and negative damage at level 35\nEpic Conjuration Users: 2d12 extra electrical damage\n\nBlack Blade of Disaster is no longer invulnerable.</c>\n\n<có ó>Gate </c>\n<cþf >This spell summons either a Balor, Pitfiend or Catapalon based on if you are Evil, Neutral or Good. These summons should be more powerful than the summon creature IX summons. It lasts less time however. \n\nMake sure you have protection versus alignment already cast, these summons are powerful! For neutral alignments, they can cast either of the two Protection From Alignment spells.\n\nIf you have Epic Spell Focus: Conjuration, you don't need protective spells.</c>\n\nPost bugs and summon suggestions on the appropiate forum thread.\n\nVersion 1.05\n- Cheetah (Katherine Taylor)\n"
+    }
+  },
+  "DisarmDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 1
+  },
+  "Fort": {
+    "type": "byte",
+    "value": 5
+  },
+  "Hardness": {
+    "type": "byte",
+    "value": 5
+  },
+  "HasInventory": {
+    "type": "byte",
+    "value": 0
+  },
+  "HP": {
+    "type": "short",
+    "value": 10
+  },
+  "Interruptable": {
+    "type": "byte",
+    "value": 1
+  },
+  "KeyName": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "KeyRequired": {
+    "type": "byte",
+    "value": 0
+  },
+  "Lockable": {
+    "type": "byte",
+    "value": 0
+  },
+  "Locked": {
+    "type": "byte",
+    "value": 0
+  },
+  "LocName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Cheetah's Summon Spell Changes"
+    }
+  },
+  "OnClick": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnClosed": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnDamaged": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnDeath": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnDisarm": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnHeartbeat": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnInvDisturbed": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnLock": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnMeleeAttacked": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnOpen": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnSpellCastAt": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnTrapTriggered": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnUnlock": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnUsed": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnUserDefined": {
+    "type": "resref",
+    "value": ""
+  },
+  "OpenLockDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 12
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PortraitId": {
+    "type": "word",
+    "value": 414
+  },
+  "Ref": {
+    "type": "byte",
+    "value": 0
+  },
+  "Static": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "CH_SUMMONSIGN"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "ch_summonsign"
+  },
+  "TrapDetectable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapDetectDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "TrapDisarmable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapFlag": {
+    "type": "byte",
+    "value": 0
+  },
+  "TrapOneShot": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapType": {
+    "type": "byte",
+    "value": 0
+  },
+  "Type": {
+    "type": "byte",
+    "value": 0
+  },
+  "Useable": {
+    "type": "byte",
+    "value": 1
+  },
+  "Will": {
+    "type": "byte",
+    "value": 0
+  }
+}

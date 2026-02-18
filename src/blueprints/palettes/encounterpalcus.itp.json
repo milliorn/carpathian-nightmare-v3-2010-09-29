@@ -1,0 +1,1195 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 8
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 5546
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 9
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 5547
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 6
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 4817
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 7
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 5545
+        }
+      },
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 0
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Animal CR 15"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "anihighhunter001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Apuseni Caves CR 30"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "aberration001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Apuseni Giants CR 30"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "frostgiantgrp005"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Asabi A CR 35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "asabi002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Asabi B CR 35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "asabi003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Basilisk CR 35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "basiliskcr35"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Beast CR 30"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "beast001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Beholder A CR35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "beholder002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Beholder B CR35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "beholder003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Construct A CR35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "golem003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Construct B CR35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "golem002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curst CR 20"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "curst001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dancing Disaster"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dancingdisaster"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dragon CR 35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dragonweak001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Drider A CR 35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "underdark002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Drider B CR 35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "underdark003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Drider CR 35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "underdark004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Elemental CR 20"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "elementallow001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fire Creatures A CR 25"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "firecregrp001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fire Creatures B CR 25"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "firecregrp002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Forest NPC's CR 5"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "anilowhunter001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Formian CR 15"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "formian002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Master"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gauntletmaster"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Giants A CR 25"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "frostgiantgrp002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Giants B CR 25"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "frostgiantgrp001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gnoll & Hobgoblins CR 10"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gnoll002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gnome Deep CR35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gnomedeepcr35"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Goblin CR 5"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "goblingrp001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Godollo CR 20"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "godollocr15"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Golubac CR 46"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "golubaccr46"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Good Outsider CR 30"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "goodoutsider001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Human Gypsy CR 20"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "humgypsy001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "King Lipova"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "kinglipova"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Kjempe of The Mephisto CR 27"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "kjempeofthemephi"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Kjempe's A CR 25"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "frostgiantgrp003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Kjempe's B CR 25"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "frostgiantgrp004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Lizardfolk CR 15"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "lizard002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Machines Boss"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "machinesboss"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Machines CR 25"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "machinesmoderate"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Mephisto Drow A CR 25"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mephdrow001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Mephisto Drow B CR 25"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mephdrow002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Mephisto Duergar CR 30"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mephduer001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Mind Flayer A CR 35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mindflay002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Mind Flayer B CR 35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mindflay003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "MinotaurMazeCR60"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "minotaurmazecr5"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Mixed Mercenaries CR 10"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mixmerchigh001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Ogre Group CR 15"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "orgegrp001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Orc CR 10"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "orclow001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "River Valley Boss"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "rivervalleyboss"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SCARFACE"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "scarface"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Slaad A CR 35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "slaad002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Slaad B CR 35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "slaad003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Snow Lake CR 10"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "giantnormal"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Souless Boss"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "soulessboss"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Souless CR60"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "blueprint009"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Souless NPC 60"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "soulessnpc60"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Souless Sanctuary Boss"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "soulessboss001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Stirge Group CR 5"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "stirgegrp001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Swamp CR 30"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "swamphard"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Trolls A CR 25"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trolls001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Trolls B CR 25"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trolls002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Undead CR 20"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "undead004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Undead CR 5"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "zombiegrp001"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6688
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 1
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Beholder CR 52"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "beholder004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Boss - 3"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "blueprint005"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Boss - 4"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "blueprint006"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Boss - 6"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "blueprint007"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Boss - 7"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "blueprint008"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Celestial Boss"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gauntletceles001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Celestial CR 47"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gauntletcelestia"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Construct CR 55"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "golem004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Drider CR 53"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "underdark005"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Lich 60"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "lich002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Mind Flayer CR 49"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mindflay004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Outsider CR 51"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gauntletoutsider"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Slaad CR 50"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "slaad004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gauntlet Vampire CR 61"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "undeadhigh001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Rakshasha Coven"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "rakshasha001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Ravana Coven"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "rakshasha"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Zywiecs CR 40"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dungeonimpossibl"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6689
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 2
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Burial Chamber CR 45+"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "burialchambercr4"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dancing CR 60"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dancingcr40"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gargoyle CR 40"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gargoylecr40"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Half-Dracul"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "blueprint001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Koschei Masters Encouter"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "koscheimastersen"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Koschei's CR 45"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "blueprint002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Koschei's Prison CR 60"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "koscheisprison"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Necroplasma CR 60"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "necroplasmacr40"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Underdark CR 60"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "underdark006"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6690
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 3
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moravian Boss"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "custom005"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moravian Lair - Mix CR 57"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "moravianlairmixc"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moravian Lair - Naga CR 57"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "blueprint004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moravian Sewer - Beetles"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "moraviansewerbee"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moravian Sewer - Mixed"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "blueprint003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moravian Sewer - Spiders"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "blueprint"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6691
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 4
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6692
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6687
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 5543
+        }
+      }
+    ]
+  }
+}

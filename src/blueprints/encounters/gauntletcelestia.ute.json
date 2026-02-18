@@ -1,0 +1,151 @@
+{
+  "__data_type": "UTE ",
+  "Active": {
+    "type": "byte",
+    "value": 1
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "CreatureList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 295
+        },
+        "CR": {
+          "type": "float",
+          "value": 47.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "fallenarchon"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 6
+        },
+        "CR": {
+          "type": "float",
+          "value": 47.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "halfnecrowarri"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 294
+        },
+        "CR": {
+          "type": "float",
+          "value": 47.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "vileavenger"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "Difficulty": {
+    "type": "int",
+    "value": 0
+  },
+  "DifficultyIndex": {
+    "type": "int",
+    "value": 4
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Gauntlet Celestial CR 47"
+    }
+  },
+  "MaxCreatures": {
+    "type": "int",
+    "value": 3
+  },
+  "OnEntered": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnExhausted": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnExit": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnHeartbeat": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnUserDefined": {
+    "type": "resref",
+    "value": ""
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 1
+  },
+  "PlayerOnly": {
+    "type": "byte",
+    "value": 1
+  },
+  "RecCreatures": {
+    "type": "int",
+    "value": 3
+  },
+  "Reset": {
+    "type": "byte",
+    "value": 1
+  },
+  "ResetTime": {
+    "type": "int",
+    "value": 600
+  },
+  "Respawns": {
+    "type": "int",
+    "value": -1
+  },
+  "SpawnOption": {
+    "type": "int",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "GauntletCelestialCR47"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "gauntletcelestia"
+  }
+}

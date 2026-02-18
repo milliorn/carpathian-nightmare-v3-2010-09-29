@@ -1,0 +1,1151 @@
+{
+  "__data_type": "GIT ",
+  "AreaProperties": {
+    "__struct_id": 100,
+    "type": "struct",
+    "value": {
+      "__struct_id": 100,
+      "AmbientSndDay": {
+        "type": "int",
+        "value": 72
+      },
+      "AmbientSndDayVol": {
+        "type": "int",
+        "value": 32
+      },
+      "AmbientSndNight": {
+        "type": "int",
+        "value": 72
+      },
+      "AmbientSndNitVol": {
+        "type": "int",
+        "value": 32
+      },
+      "EnvAudio": {
+        "type": "int",
+        "value": 0
+      },
+      "MusicBattle": {
+        "type": "int",
+        "value": 40
+      },
+      "MusicDay": {
+        "type": "int",
+        "value": 25
+      },
+      "MusicDelay": {
+        "type": "int",
+        "value": 88000
+      },
+      "MusicNight": {
+        "type": "int",
+        "value": 25
+      }
+    }
+  },
+  "Creature List": {
+    "type": "list",
+    "value": []
+  },
+  "Door List": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 8,
+        "AnimationState": {
+          "type": "byte",
+          "value": 0
+        },
+        "Appearance": {
+          "type": "dword",
+          "value": 0
+        },
+        "AutoRemoveKey": {
+          "type": "byte",
+          "value": 0
+        },
+        "Bearing": {
+          "type": "float",
+          "value": 1.5708
+        },
+        "CloseLockDC": {
+          "type": "byte",
+          "value": 0
+        },
+        "Conversation": {
+          "type": "resref",
+          "value": ""
+        },
+        "CurrentHP": {
+          "type": "short",
+          "value": 10
+        },
+        "Description": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "DisarmDC": {
+          "type": "byte",
+          "value": 0
+        },
+        "Faction": {
+          "type": "dword",
+          "value": 1
+        },
+        "Fort": {
+          "type": "byte",
+          "value": 5
+        },
+        "GenericType_New": {
+          "type": "dword",
+          "value": 0
+        },
+        "Hardness": {
+          "type": "byte",
+          "value": 5
+        },
+        "HP": {
+          "type": "short",
+          "value": 10
+        },
+        "Interruptable": {
+          "type": "byte",
+          "value": 1
+        },
+        "KeyName": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "KeyRequired": {
+          "type": "byte",
+          "value": 0
+        },
+        "LinkedTo": {
+          "type": "cexostring",
+          "value": "MarketEntrance"
+        },
+        "LinkedToFlags": {
+          "type": "byte",
+          "value": 1
+        },
+        "LoadScreenID": {
+          "type": "word",
+          "value": 0
+        },
+        "Lockable": {
+          "type": "byte",
+          "value": 0
+        },
+        "Locked": {
+          "type": "byte",
+          "value": 0
+        },
+        "LocName": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Market Exit"
+          }
+        },
+        "OnClick": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnClosed": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnDamaged": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnDeath": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnDisarm": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnFailToOpen": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnHeartbeat": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnLock": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnMeleeAttacked": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnOpen": {
+          "type": "resref",
+          "value": "sf_door"
+        },
+        "OnSpellCastAt": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnTrapTriggered": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnUnlock": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnUserDefined": {
+          "type": "resref",
+          "value": ""
+        },
+        "OpenLockDC": {
+          "type": "byte",
+          "value": 0
+        },
+        "Plot": {
+          "type": "byte",
+          "value": 1
+        },
+        "PortraitId": {
+          "type": "word",
+          "value": 558
+        },
+        "Ref": {
+          "type": "byte",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "MarketExit"
+        },
+        "TemplateResRef": {
+          "type": "resref",
+          "value": "acn_town_door"
+        },
+        "TrapDetectable": {
+          "type": "byte",
+          "value": 1
+        },
+        "TrapDetectDC": {
+          "type": "byte",
+          "value": 0
+        },
+        "TrapDisarmable": {
+          "type": "byte",
+          "value": 1
+        },
+        "TrapFlag": {
+          "type": "byte",
+          "value": 0
+        },
+        "TrapOneShot": {
+          "type": "byte",
+          "value": 1
+        },
+        "TrapType": {
+          "type": "byte",
+          "value": 0
+        },
+        "Will": {
+          "type": "byte",
+          "value": 0
+        },
+        "X": {
+          "type": "float",
+          "value": 4.63
+        },
+        "Y": {
+          "type": "float",
+          "value": 3.17
+        },
+        "Z": {
+          "type": "float",
+          "value": 1.4
+        }
+      }
+    ]
+  },
+  "Encounter List": {
+    "type": "list",
+    "value": []
+  },
+  "List": {
+    "type": "list",
+    "value": []
+  },
+  "Placeable List": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 9,
+        "AnimationState": {
+          "type": "byte",
+          "value": 0
+        },
+        "Appearance": {
+          "type": "dword",
+          "value": 8
+        },
+        "AutoRemoveKey": {
+          "type": "byte",
+          "value": 0
+        },
+        "Bearing": {
+          "type": "float",
+          "value": 1.5708
+        },
+        "BodyBag": {
+          "type": "byte",
+          "value": 0
+        },
+        "CloseLockDC": {
+          "type": "byte",
+          "value": 0
+        },
+        "Conversation": {
+          "type": "resref",
+          "value": ""
+        },
+        "CurrentHP": {
+          "type": "short",
+          "value": 15
+        },
+        "Description": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Strange runes and pictographs, likely arcane in nature, have been scorched into the sides of this hide-covered strongbox.",
+            "id": 14595
+          }
+        },
+        "DisarmDC": {
+          "type": "byte",
+          "value": 15
+        },
+        "Faction": {
+          "type": "dword",
+          "value": 1
+        },
+        "Fort": {
+          "type": "byte",
+          "value": 16
+        },
+        "Hardness": {
+          "type": "byte",
+          "value": 10
+        },
+        "HasInventory": {
+          "type": "byte",
+          "value": 1
+        },
+        "HP": {
+          "type": "short",
+          "value": 15
+        },
+        "Interruptable": {
+          "type": "byte",
+          "value": 0
+        },
+        "KeyName": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "KeyRequired": {
+          "type": "byte",
+          "value": 0
+        },
+        "Lockable": {
+          "type": "byte",
+          "value": 0
+        },
+        "Locked": {
+          "type": "byte",
+          "value": 0
+        },
+        "LocName": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Party Loot Splitter",
+            "id": 5348
+          }
+        },
+        "OnClick": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnClosed": {
+          "type": "resref",
+          "value": "vfx_lootsplitter"
+        },
+        "OnDamaged": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnDeath": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnDisarm": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnHeartbeat": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnInvDisturbed": {
+          "type": "resref",
+          "value": "sf_destroy_test"
+        },
+        "OnLock": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnMeleeAttacked": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnOpen": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnSpellCastAt": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnTrapTriggered": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnUnlock": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnUsed": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnUserDefined": {
+          "type": "resref",
+          "value": ""
+        },
+        "OpenLockDC": {
+          "type": "byte",
+          "value": 18
+        },
+        "Plot": {
+          "type": "byte",
+          "value": 1
+        },
+        "PortraitId": {
+          "type": "word",
+          "value": 366
+        },
+        "Ref": {
+          "type": "byte",
+          "value": 0
+        },
+        "Static": {
+          "type": "byte",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "RECYCLER"
+        },
+        "TemplateResRef": {
+          "type": "resref",
+          "value": "partylootsplit"
+        },
+        "TrapDetectable": {
+          "type": "byte",
+          "value": 1
+        },
+        "TrapDetectDC": {
+          "type": "byte",
+          "value": 0
+        },
+        "TrapDisarmable": {
+          "type": "byte",
+          "value": 1
+        },
+        "TrapFlag": {
+          "type": "byte",
+          "value": 0
+        },
+        "TrapOneShot": {
+          "type": "byte",
+          "value": 1
+        },
+        "TrapType": {
+          "type": "byte",
+          "value": 0
+        },
+        "Type": {
+          "type": "byte",
+          "value": 0
+        },
+        "Useable": {
+          "type": "byte",
+          "value": 1
+        },
+        "Will": {
+          "type": "byte",
+          "value": 0
+        },
+        "X": {
+          "type": "float",
+          "value": 5.2122
+        },
+        "Y": {
+          "type": "float",
+          "value": 9.989800000000001
+        },
+        "Z": {
+          "type": "float",
+          "value": -0.0
+        }
+      }
+    ]
+  },
+  "SoundList": {
+    "type": "list",
+    "value": []
+  },
+  "StoreList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 11,
+        "BlackMarket": {
+          "type": "byte",
+          "value": 1
+        },
+        "BM_MarkDown": {
+          "type": "int",
+          "value": 0
+        },
+        "IdentifyPrice": {
+          "type": "int",
+          "value": 1000
+        },
+        "LocName": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Market Merchant"
+          }
+        },
+        "MarkDown": {
+          "type": "int",
+          "value": 15
+        },
+        "MarkUp": {
+          "type": "int",
+          "value": 150
+        },
+        "MaxBuyPrice": {
+          "type": "int",
+          "value": 10000
+        },
+        "OnOpenStore": {
+          "type": "resref",
+          "value": ""
+        },
+        "OnStoreClosed": {
+          "type": "resref",
+          "value": ""
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "marketmerchan002"
+        },
+        "StoreGold": {
+          "type": "int",
+          "value": -1
+        },
+        "StoreList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0
+            },
+            {
+              "__struct_id": 4
+            },
+            {
+              "__struct_id": 2
+            },
+            {
+              "__struct_id": 3
+            },
+            {
+              "__struct_id": 1,
+              "ItemList": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "AddCost": {
+                      "type": "dword",
+                      "value": 1
+                    },
+                    "BaseItem": {
+                      "type": "int",
+                      "value": 15
+                    },
+                    "Charges": {
+                      "type": "byte",
+                      "value": 0
+                    },
+                    "Cost": {
+                      "type": "dword",
+                      "value": 6
+                    },
+                    "Cursed": {
+                      "type": "byte",
+                      "value": 0
+                    },
+                    "DescIdentified": {
+                      "type": "cexolocstring",
+                      "value": {}
+                    },
+                    "Description": {
+                      "type": "cexolocstring",
+                      "value": {}
+                    },
+                    "Identified": {
+                      "type": "byte",
+                      "value": 1
+                    },
+                    "Infinite": {
+                      "type": "byte",
+                      "value": 1
+                    },
+                    "LocalizedName": {
+                      "type": "cexolocstring",
+                      "value": {
+                        "id": 180
+                      }
+                    },
+                    "ModelPart1": {
+                      "type": "byte",
+                      "value": 0
+                    },
+                    "Plot": {
+                      "type": "byte",
+                      "value": 0
+                    },
+                    "PropertiesList": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "ChanceAppear": {
+                            "type": "byte",
+                            "value": 100
+                          },
+                          "CostTable": {
+                            "type": "byte",
+                            "value": 18
+                          },
+                          "CostValue": {
+                            "type": "word",
+                            "value": 4
+                          },
+                          "Param1": {
+                            "type": "byte",
+                            "value": 9
+                          },
+                          "Param1Value": {
+                            "type": "byte",
+                            "value": 1
+                          },
+                          "PropertyName": {
+                            "type": "word",
+                            "value": 44
+                          },
+                          "Subtype": {
+                            "type": "word",
+                            "value": 0
+                          }
+                        }
+                      ]
+                    },
+                    "Repos_PosX": {
+                      "type": "word",
+                      "value": 0
+                    },
+                    "Repos_Posy": {
+                      "type": "word",
+                      "value": 0
+                    },
+                    "StackSize": {
+                      "type": "word",
+                      "value": 1
+                    },
+                    "Stolen": {
+                      "type": "byte",
+                      "value": 0
+                    },
+                    "Tag": {
+                      "type": "cexostring",
+                      "value": "NW_IT_TORCH001"
+                    },
+                    "TemplateResRef": {
+                      "type": "resref",
+                      "value": "nw_it_torch001"
+                    },
+                    "XOrientation": {
+                      "type": "float",
+                      "value": 0.0
+                    },
+                    "XPosition": {
+                      "type": "float",
+                      "value": -1.0
+                    },
+                    "YOrientation": {
+                      "type": "float",
+                      "value": 1.0
+                    },
+                    "YPosition": {
+                      "type": "float",
+                      "value": -1.0
+                    },
+                    "ZPosition": {
+                      "type": "float",
+                      "value": -1.0
+                    }
+                  },
+                  {
+                    "__struct_id": 1,
+                    "AddCost": {
+                      "type": "dword",
+                      "value": 0
+                    },
+                    "BaseItem": {
+                      "type": "int",
+                      "value": 29
+                    },
+                    "Charges": {
+                      "type": "byte",
+                      "value": 0
+                    },
+                    "Cost": {
+                      "type": "dword",
+                      "value": 0
+                    },
+                    "Cursed": {
+                      "type": "byte",
+                      "value": 0
+                    },
+                    "DescIdentified": {
+                      "type": "cexolocstring",
+                      "value": {
+                        "0": "<czzþ>Emotes</c>\n<czzþ>These are the emotes you can use via chat. They can be typed into any chat channel (party, talk, shout, etc.) and have the same effect in all of them. They are case insensitive. Most emotes also have a two-letter shortcut which may be used instead, in parentheses to the right of the emote.</c>\n<czzþ>*agree </c><cþþþ>(</c><czzþ>*ag</c><cþþþ>)</c>\n<czzþ>*beg </c><cþþþ>(</c><czzþ>*bg</c><cþþþ>)</c>\n<czzþ>*bend </c><cþþþ>(</c><czzþ>*bn</c><cþþþ>)</c>\n<czzþ>*bored </c><cþþþ>(</c><czzþ>*bo</c><cþþþ>)</c>\n<czzþ>*bow </c><cþþþ>(</c><czzþ>*bw</c><cþþþ>)</c>\n<czzþ>*cantrip </c><cþþþ>(</c><czzþ>*ca</c><cþþþ>)</c>\n<czzþ>*cast </c><cþþþ>(</c><czzþ>*cs</c><cþþþ>)</c>\n<czzþ>*celebrate </c><cþþþ>(</c><czzþ>*cl</c><cþþþ>)</c>\n<czzþ>*chat </c><cþþþ>(</c><czzþ>*ct</c><cþþþ>)</c>\n<czzþ>*cheer </c><cþþþ>(</c><czzþ>*ch</c><cþþþ>)</c>\n<czzþ>*chuckle </c><cþþþ>(</c><czzþ>*ck</c><cþþþ>)</c>\n<czzþ>*curtsy </c><cþþþ>(</c><czzþ>*cy</c><cþþþ>)</c>\n<czzþ>*dance </c><cþþþ>(</c><czzþ>*da</c><cþþþ>)</c>\n<czzþ>*dead </c><cþþþ>(</c><czzþ>*dd</c><cþþþ>)</c>\n<czzþ>*demand </c><cþþþ>(</c><czzþ>*dm</c><cþþþ>)</c>\n<czzþ>*die </c><cþþþ>(</c><czzþ>*di</c><cþþþ>)</c>\n<czzþ>*dodge </c><cþþþ>(</c><czzþ>*dg</c><cþþþ>)</c>\n<czzþ>*drink </c><cþþþ>(</c><czzþ>*dr</c><cþþþ>)</c>\n<czzþ>*drunk </c><cþþþ>(</c><czzþ>*dn</c><cþþþ>)</c>\n<czzþ>*duck </c><cþþþ>(</c><czzþ>*dk</c><cþþþ>)</c>\n<czzþ>*exhausted </c><cþþþ>(</c><czzþ>*ex</c><cþþþ>)</c>\n<czzþ>*fall </c><cþþþ>(</c><czzþ>*fl</c><cþþþ>)</c>\n<czzþ>*fatigue </c><cþþþ>(</c><czzþ>*fa</c><cþþþ>)</c>\n<czzþ>*fiddle </c><cþþþ>(</c><czzþ>*fi</c><cþþþ>)</c>\n<czzþ>*fidget </c><cþþþ>(</c><czzþ>*fg</c><cþþþ>)</c>\n<czzþ>*flop </c><cþþþ>(</c><czzþ>*fp</c><cþþþ>)</c>\n<czzþ>*giggle </c><cþþþ>(</c><czzþ>*gi</c><cþþþ>) (female only)</c>\n<czzþ>*greet </c><cþþþ>(</c><czzþ>*gr</c><cþþþ>)</c>\n<czzþ>*hooray </c><cþþþ>(</c><czzþ>*hy</c><cþþþ>)</c>\n<czzþ>*hum </c><cþþþ>(</c><czzþ>*hm</c><cþþþ>)</c>\n<czzþ>*laugh </c><cþþþ>(</c><czzþ>*la</c><cþþþ>)</c>\n<czzþ>*meditate </c><cþþþ>(</c><czzþ>*md</c><cþþþ>)</c>\n<czzþ>*mock </c><cþþþ>(</c><czzþ>*mo</c><cþþþ>)</c>\n<czzþ>*nap </c><cþþþ>(</c><czzþ>*np</c><cþþþ>)</c>\n<czzþ>*no </c>\n<czzþ>*nod </c><cþþþ>(</c><czzþ>*nd</c><cþþþ>)</c>\n<czzþ>*peer </c><cþþþ>(</c><czzþ>*pe</c><cþþþ>)</c>\n<czzþ>*plead </c><cþþþ>(</c><czzþ>*pl</c><cþþþ>)</c>\n<czzþ>*pray </c><cþþþ>(</c><czzþ>*pr</c><cþþþ>)</c>\n<czzþ>*prone </c><cþþþ>(</c><czzþ>*pn</c><cþþþ>)</c>\n<czzþ>*puke </c><cþþþ>(</c><czzþ>*pu</c><cþþþ>)</c>\n<czzþ>*read </c><cþþþ>(</c><czzþ>*re</c><cþþþ>)</c>\n<czzþ>*salute </c><cþþþ>(</c><czzþ>*sa</c><cþþþ>)</c>\n<czzþ>*scan </c><cþþþ>(</c><czzþ>*sn</c><cþþþ>)</c>\n<czzþ>*scratch </c><cþþþ>(</c><czzþ>*sc</c><cþþþ>)</c>\n<czzþ>*shift </c><cþþþ>(</c><czzþ>*sh</c><cþþþ>)</c>\n<czzþ>*sing </c><cþþþ>(</c><czzþ>*sg</c><cþþþ>)</c>\n<czzþ>*sip </c>\n<czzþ>*sit </c><cþþþ>(</c><czzþ>*si</c><cþþþ>)</c>\n<czzþ>*sleep </c><cþþþ>(</c><czzþ>*sl</c><cþþþ>)</c>\n<czzþ>*smoke </c><cþþþ>(</c><czzþ>*sm</c><cþþþ>)</c>\n<czzþ>*snore </c>\n<czzþ>*spasm </c><cþþþ>(</c><czzþ>*sp</c><cþþþ>)</c>\n<czzþ>*steal </c><cþþþ>(</c><czzþ>*st</c><cþþþ>)</c>\n<czzþ>*stretch </c><cþþþ>(</c><czzþ>*sr</c><cþþþ>)</c>\n<czzþ>*stoop </c><cþþþ>(</c><czzþ>*so</c><cþþþ>)</c>\n<czzþ>*swipe </c><cþþþ>(</c><czzþ>*sw</c><cþþþ>)</c>\n<czzþ>*talk </c><cþþþ>(</c><czzþ>*tl</c><cþþþ>)</c>\n<czzþ>*taunt </c><cþþþ>(</c><czzþ>*ta</c><cþþþ>)</c>\n<czzþ>*threaten </c><cþþþ>(</c><czzþ>*th</c><cþþþ>)</c>\n<czzþ>*tired </c><cþþþ>(</c><czzþ>*ti</c><cþþþ>)</c>\n<czzþ>*vomit </c><cþþþ>(</c><czzþ>*vm</c><cþþþ>)</c>\n<czzþ>*wave </c><cþþþ>(</c><czzþ>*wa</c><cþþþ>)</c>\n<czzþ>*whistle </c><cþþþ>(</c><czzþ>*wh</c><cþþþ>)</c>\n<czzþ>*woozy </c><cþþþ>(</c><czzþ>*wz</c><cþþþ>)</c>\n<czzþ>*worship </c><cþþþ>(</c><czzþ>*wo</c><cþþþ>)</c>\n<czzþ>*yawn </c><cþþþ>(</c><czzþ>*yw</c><cþþþ>)</c>\n\n<czzþ>Commands</c>\n<czzþ>These are the commands you can use via chat. They can be typed into any chat channel (party, talk, shout, etc.) and have the same effect in all of them. They are case insensitive.</c>\n<c þ >Commands shown in green must be sent via tell.</c>\n<czzþ>!d4 </c><cþþþ>= Rolls a d4.</c>\n<czzþ>!d6 </c><cþþþ>= Rolls a d6.</c>\n<czzþ>!d8 </c><cþþþ>= Rolls a d8.</c>\n<czzþ>!d10 </c><cþþþ>= Rolls a d10.</c>\n<czzþ>!d12 </c><cþþþ>= Rolls a d12.</c>\n<czzþ>!d20 </c><cþþþ>= Rolls a d20.</c>\n<czzþ>!d100 </c><cþþþ>= Rolls a d100.</c>\n<czzþ>!partyroll </c><cþþþ>= Does an arranged party loot split roll, if the command giver is the party leader.</c>\n<c þ >!playerinfo </c><cþþþ>(must be sent in a tell) = Lists the target's Playername, CD Key, Classes, Experience, Experience Needed for Next Level, Area, and Partymembers. If used on yourself it also shows Diety, Subrace, Gold, and Gold Plus Inventory Value. You may hide all but your Playername and CD Key from other players by using the </c><c×{þ>!anon </c><cþþþ>command.</c>\n<czzþ>!anon </c><cþþþ>= Hides your class, experience, area, and partymember information from other players using the </c><c´þd>!playerinfo </c><cþþþ>command.</c>\n<czzþ>!unanon </c><cþþþ>= Removes your anonymous staus, allowing other players to see your class, experience, area, and partymember information.</c>\n<czzþ>!wpac </c><cþþþ>= Changes weapon visual to acid.</c>\n<czzþ>!wpco </c><cþþþ>= Changes weapon visual to cold.</c>\n<czzþ>!wpel </c><cþþþ>= Changes weapon visual to electric.</c>\n<czzþ>!wpev </c><cþþþ>= Changes weapon visual to evil.</c>\n<czzþ>!wpfi </c><cþþþ>= Changes weapon visual to fire.</c>\n<czzþ>!wpho </c><cþþþ>= Changes weapon visual to holy.</c>\n<czzþ>!list emotes </c><cþþþ>= Lists the useable chat emotes.</c>\n<czzþ>!list commands </c><cþþþ>= Lists the useable chat commands.</c>\n<czzþ>!list ignored </c><cþþþ>= Lists the players you have chosen to ignore.</c>\n<czzþ>!list languages</c><cþþþ> - Lists all the languages a player can speak, and explains the <c×{þ>/l</c><cþþþ> (oneliner) and <c×{þ>!speak</c><cþþþ> command uses.</c>\n<czzþ>!list alllanguages</c><cþþþ> - Lists all the languages available in SIMTools.</c>\n<czzþ>!lfg </c><cþþþ>= Announces that you are looking for a group in shout.</c>\n<czzþ>!metaaccept </c><cþþþ>= Accepts an invitation to a metachannel.</c>\n<czzþ>!metadecline </c><cþþþ>= Declines an invitation to a metachannel.</c>\n<czzþ>!metadisband </c><cþþþ>= Removes every member of the metachannel. Only the leader of the metachannel can disband it.</c>\n<c þ >!metainvite </c><cþþþ>(must be sent in a tell) = Invites the target of the tell to your current metachannel. If you are not in a meta chanel, a new channel will be created if that person accepts.</c>\n<c þ >!metakick </c><cþþþ>(must be sent in a tell) = Kicks the target of the tell from your metachannel. Only the leader of the metachannel can kick people from it.</c>\n<czzþ>!metaleave </c><cþþþ>= Removes you from your current metachannel.</c>\n<czzþ>!metalist </c><cþþþ>= Lists the people in your metachannel.</c>\n<czzþ>/m </c><cþþþ>= Sends the text entered after the channel designation to the player's metachannel.</c>\n<czzþ>!setname</c><cþþþ> - Allows the speaker to rename one of their items. The command format is <c×{þ>!setname (old name)@(new name)</c><cþþþ> . The command is case-sensitive. Example: To rename item Longsword to Sam's Sword: <c×{þ>!setname Longsword@Sam's Sword</c><cþþþ> . Items with an '@' in the name will prevent this command from working properly.</c>\n<czzþ>!setnameall</c><cþþþ> - This command is identical in function and format to setname, but will rename all items of the old name specified instead of just one.</c>\n<czzþ>!skillcheck</c><cþþþ> - Allows players to roll checks against a specific skill and DC. The command format is <c×{þ>!skillcheck (skill#) (DC#)</c><cþþþ> . Example: A DC 20 Discipline Check would be spoken as follows: <c×{þ>!skillcheck 3 20</c><cþþþ> . The result will be displayed in floating text above the player. A list of skill numbers can be called up using the <c×{þ>!skillslist</c><cþþþ> command.</c>\n<czzþ>!Skillslist</c><cþþþ> - Sends a list of the skills and matching skill numbers to the players combat log, for easy reference when using the <c×{þ>!skillcheck</c><cþþþ> command to do skill checks.</c>\n<c þ >!ignore </c><cþþþ>(must be sent in a tell) = You will not receive tells from the player you send this command to.</c>\n<c þ >!unignore </c><cþþþ>(must be sent in a tell) = Removes ignore status.</c>",
+                        "id": 62546
+                      }
+                    },
+                    "Description": {
+                      "type": "cexolocstring",
+                      "value": {
+                        "0": ""
+                      }
+                    },
+                    "Identified": {
+                      "type": "byte",
+                      "value": 1
+                    },
+                    "Infinite": {
+                      "type": "byte",
+                      "value": 1
+                    },
+                    "LocalizedName": {
+                      "type": "cexolocstring",
+                      "value": {
+                        "0": "Chat Commands",
+                        "id": 62545
+                      }
+                    },
+                    "ModelPart1": {
+                      "type": "byte",
+                      "value": 15
+                    },
+                    "Plot": {
+                      "type": "byte",
+                      "value": 1
+                    },
+                    "PropertiesList": {
+                      "type": "list",
+                      "value": []
+                    },
+                    "Repos_PosX": {
+                      "type": "word",
+                      "value": 1
+                    },
+                    "Repos_Posy": {
+                      "type": "word",
+                      "value": 0
+                    },
+                    "StackSize": {
+                      "type": "word",
+                      "value": 1
+                    },
+                    "Stolen": {
+                      "type": "byte",
+                      "value": 0
+                    },
+                    "Tag": {
+                      "type": "cexostring",
+                      "value": "chatcommands"
+                    },
+                    "TemplateResRef": {
+                      "type": "resref",
+                      "value": "chatcommands"
+                    },
+                    "XOrientation": {
+                      "type": "float",
+                      "value": 0.0
+                    },
+                    "XPosition": {
+                      "type": "float",
+                      "value": -1.0
+                    },
+                    "YOrientation": {
+                      "type": "float",
+                      "value": 1.0
+                    },
+                    "YPosition": {
+                      "type": "float",
+                      "value": -1.0
+                    },
+                    "ZPosition": {
+                      "type": "float",
+                      "value": -1.0
+                    }
+                  },
+                  {
+                    "__struct_id": 2,
+                    "AddCost": {
+                      "type": "dword",
+                      "value": 0
+                    },
+                    "BaseItem": {
+                      "type": "int",
+                      "value": 29
+                    },
+                    "Charges": {
+                      "type": "byte",
+                      "value": 0
+                    },
+                    "Cost": {
+                      "type": "dword",
+                      "value": 0
+                    },
+                    "Cursed": {
+                      "type": "byte",
+                      "value": 0
+                    },
+                    "DescIdentified": {
+                      "type": "cexolocstring",
+                      "value": {
+                        "0": "<c þ >Languages</c>\n<c þ >These are all the languages that a character may learn in SIMTools .  Languages are being developed, an not all may be available on this version 1.3.</c>\n**Racial/Planar**\nAbyssal\nAnimal\nAquan\nAuran\nCelestial\nDraconic\nDrow\nDrowSign\nDwarf\nElven\nGiant\nGnoll\nGnome\nGoblin\nHalfling\nIgnan\nInferbal\nOrc\n(Leetspeak)\nSylvan\nTerran\nTreant\nUndercommon\n\n**Regional**\n\nAlgarondan\nAlzhedo\nChessentan\nChondathan\nChultan\nDamaran\nDambrathan\nDurpari\nHalardrim\nHalruaan\nIlluskan\nImaskar\nLantanese\nMidani\nMulhorandi\nNexalan\nOillusk\nRashemi\nRaumvira\nSerusan\nShaaran\nShou\nTalfiric\nTashalan\nTuigan\nTurmic\nUluik\nUntheric\nVaasan\n\n**Class**\nThieve's Cant (Cant)\nDruidic\nAssassin's Cant (Assassin)",
+                        "id": 62546
+                      }
+                    },
+                    "Description": {
+                      "type": "cexolocstring",
+                      "value": {
+                        "0": ""
+                      }
+                    },
+                    "Identified": {
+                      "type": "byte",
+                      "value": 1
+                    },
+                    "Infinite": {
+                      "type": "byte",
+                      "value": 1
+                    },
+                    "LocalizedName": {
+                      "type": "cexolocstring",
+                      "value": {
+                        "0": "Languages",
+                        "id": 62545
+                      }
+                    },
+                    "ModelPart1": {
+                      "type": "byte",
+                      "value": 15
+                    },
+                    "Plot": {
+                      "type": "byte",
+                      "value": 1
+                    },
+                    "PropertiesList": {
+                      "type": "list",
+                      "value": []
+                    },
+                    "Repos_PosX": {
+                      "type": "word",
+                      "value": 3
+                    },
+                    "Repos_Posy": {
+                      "type": "word",
+                      "value": 0
+                    },
+                    "StackSize": {
+                      "type": "word",
+                      "value": 1
+                    },
+                    "Stolen": {
+                      "type": "byte",
+                      "value": 0
+                    },
+                    "Tag": {
+                      "type": "cexostring",
+                      "value": "languages"
+                    },
+                    "TemplateResRef": {
+                      "type": "resref",
+                      "value": "languages"
+                    },
+                    "XOrientation": {
+                      "type": "float",
+                      "value": 0.0
+                    },
+                    "XPosition": {
+                      "type": "float",
+                      "value": -1.0
+                    },
+                    "YOrientation": {
+                      "type": "float",
+                      "value": 1.0
+                    },
+                    "YPosition": {
+                      "type": "float",
+                      "value": -1.0
+                    },
+                    "ZPosition": {
+                      "type": "float",
+                      "value": -1.0
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "MarketMerchant"
+        },
+        "WillNotBuy": {
+          "type": "list",
+          "value": []
+        },
+        "WillOnlyBuy": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 97869,
+              "BaseItem": {
+                "type": "int",
+                "value": 76
+              }
+            }
+          ]
+        },
+        "XOrientation": {
+          "type": "float",
+          "value": -0.0
+        },
+        "XPosition": {
+          "type": "float",
+          "value": 10.0015
+        },
+        "YOrientation": {
+          "type": "float",
+          "value": -1.0
+        },
+        "YPosition": {
+          "type": "float",
+          "value": 16.4995
+        },
+        "ZPosition": {
+          "type": "float",
+          "value": -0.0
+        }
+      }
+    ]
+  },
+  "TriggerList": {
+    "type": "list",
+    "value": []
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "NO_PVP"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "NO_CASTING"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 1
+        },
+        "Value": {
+          "type": "int",
+          "value": 1
+        }
+      }
+    ]
+  },
+  "WaypointList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 5,
+        "Appearance": {
+          "type": "byte",
+          "value": 2
+        },
+        "Description": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "HasMapNote": {
+          "type": "byte",
+          "value": 0
+        },
+        "LinkedTo": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "LocalizedName": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "POST_shopkeep001"
+          }
+        },
+        "MapNote": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "MapNoteEnabled": {
+          "type": "byte",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "POST_shopkeep001"
+        },
+        "TemplateResRef": {
+          "type": "resref",
+          "value": "post_"
+        },
+        "XOrientation": {
+          "type": "float",
+          "value": -0.0
+        },
+        "XPosition": {
+          "type": "float",
+          "value": 9.9945
+        },
+        "YOrientation": {
+          "type": "float",
+          "value": -1.0
+        },
+        "YPosition": {
+          "type": "float",
+          "value": 16.4039
+        },
+        "ZPosition": {
+          "type": "float",
+          "value": -0.0
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Appearance": {
+          "type": "byte",
+          "value": 1
+        },
+        "Description": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "HasMapNote": {
+          "type": "byte",
+          "value": 0
+        },
+        "LinkedTo": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "LocalizedName": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Carp_to_Market",
+            "id": 14817
+          }
+        },
+        "MapNote": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "MapNoteEnabled": {
+          "type": "byte",
+          "value": 1
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "Carp_to_Market"
+        },
+        "TemplateResRef": {
+          "type": "resref",
+          "value": "nw_waypoint001"
+        },
+        "XOrientation": {
+          "type": "float",
+          "value": 0.9952
+        },
+        "XPosition": {
+          "type": "float",
+          "value": 6.2162
+        },
+        "YOrientation": {
+          "type": "float",
+          "value": 0.098
+        },
+        "YPosition": {
+          "type": "float",
+          "value": 3.1015
+        },
+        "ZPosition": {
+          "type": "float",
+          "value": 0.5265
+        }
+      }
+    ]
+  }
+}

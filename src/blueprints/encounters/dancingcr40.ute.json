@@ -1,0 +1,227 @@
+{
+  "__data_type": "UTE ",
+  "Active": {
+    "type": "byte",
+    "value": 1
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "CreatureList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 298
+        },
+        "CR": {
+          "type": "float",
+          "value": 60.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "dancingstormwal"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 298
+        },
+        "CR": {
+          "type": "float",
+          "value": 60.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "dancingrisktake"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 298
+        },
+        "CR": {
+          "type": "float",
+          "value": 60.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "dancingdragon"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 298
+        },
+        "CR": {
+          "type": "float",
+          "value": 60.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "dancingfiendfoe"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 298
+        },
+        "CR": {
+          "type": "float",
+          "value": 60.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "dancingdeath"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 298
+        },
+        "CR": {
+          "type": "float",
+          "value": 60.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "dancingepicaxe"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 298
+        },
+        "CR": {
+          "type": "float",
+          "value": 60.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "dancinglyons"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "Difficulty": {
+    "type": "int",
+    "value": 0
+  },
+  "DifficultyIndex": {
+    "type": "int",
+    "value": 4
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Dancing CR 60"
+    }
+  },
+  "MaxCreatures": {
+    "type": "int",
+    "value": 3
+  },
+  "OnEntered": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnExhausted": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnExit": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnHeartbeat": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnUserDefined": {
+    "type": "resref",
+    "value": ""
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 2
+  },
+  "PlayerOnly": {
+    "type": "byte",
+    "value": 1
+  },
+  "RecCreatures": {
+    "type": "int",
+    "value": 3
+  },
+  "Reset": {
+    "type": "byte",
+    "value": 1
+  },
+  "ResetTime": {
+    "type": "int",
+    "value": 600
+  },
+  "Respawns": {
+    "type": "int",
+    "value": -1
+  },
+  "SpawnOption": {
+    "type": "int",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "DancingCR60"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "dancingcr40"
+  }
+}

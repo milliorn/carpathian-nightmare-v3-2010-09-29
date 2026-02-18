@@ -1,0 +1,227 @@
+{
+  "__data_type": "UTE ",
+  "Active": {
+    "type": "byte",
+    "value": 1
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "CreatureList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 24
+        },
+        "CR": {
+          "type": "float",
+          "value": 60.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "golbone002"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 91
+        },
+        "CR": {
+          "type": "float",
+          "value": 60.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "golclay002"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 88
+        },
+        "CR": {
+          "type": "float",
+          "value": 60.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "golflesh002"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 100
+        },
+        "CR": {
+          "type": "float",
+          "value": 60.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "helmhorr002"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 119
+        },
+        "CR": {
+          "type": "float",
+          "value": 60.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "minogon002"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 90
+        },
+        "CR": {
+          "type": "float",
+          "value": 60.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "shguard002"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 92
+        },
+        "CR": {
+          "type": "float",
+          "value": 60.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "golstone002"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "Difficulty": {
+    "type": "int",
+    "value": 0
+  },
+  "DifficultyIndex": {
+    "type": "int",
+    "value": 4
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Souless CR60"
+    }
+  },
+  "MaxCreatures": {
+    "type": "int",
+    "value": 2
+  },
+  "OnEntered": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnExhausted": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnExit": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnHeartbeat": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnUserDefined": {
+    "type": "resref",
+    "value": ""
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 0
+  },
+  "PlayerOnly": {
+    "type": "byte",
+    "value": 1
+  },
+  "RecCreatures": {
+    "type": "int",
+    "value": 2
+  },
+  "Reset": {
+    "type": "byte",
+    "value": 1
+  },
+  "ResetTime": {
+    "type": "int",
+    "value": 300
+  },
+  "Respawns": {
+    "type": "int",
+    "value": -1
+  },
+  "SpawnOption": {
+    "type": "int",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "SoulessCR60"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "blueprint009"
+  }
+}

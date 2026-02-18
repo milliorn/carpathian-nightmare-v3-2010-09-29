@@ -1,0 +1,722 @@
+{
+  "__data_type": "JRL ",
+  "Categories": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "Welcome to A Carpathian Nightmare!\n\nForum - http://acnpoa.proboards.com\n\nList of features some exclusive to ACN:\n\n60+ Subraces\nLegendary Levels(60)\nGP XP Item Bank\nPC Rebuilder\nUnique Market system\nParty Loot Splitter an Destroyer Tool\nOmega Forge\nBounty System an Jail\nUnique Boss Encounters\nSpecial XP Reward for Rogues with LockPicketing Boss Treasure\nBindstones an Party Portal\nMass Dislike Wand an Emote Wand\nTotal PC Appearance Modifier\nNo Alignment Restrictions\nFull Crafting Shop \nPk Score System\nDynamic Arena(No DM Required)\nSequener Wands(Fast Buffing)\nSimtools\nMax Hit Points\nCharacter Deleter\n\nThe module was built, programmed and created by Scott and Sarah Milliorn.  Over 200+ areas to explore.  Listed as a Hall of Fame NwNVault Gameworld, it is mainly Hak n' Slash and PvP.  ACN is the longest running PvP server with its original developer and owner in Neverwinter Nights.  It is also the longest running Legendary Level PvP server besides the original, Higher Ground.  ACN also has the most subraces in any PvP module.  ACN has the original PvP Score/Bounty Hunter System.  ACN was first launched in early 2005, but was completed in 2004.  Development started in 2003 originally as a Path of Ascension module.  The development of Path of Ascension ACN stems off from the days as a developer for the Ancient Warriors Clan, the original authors of Path of Ascension NwN.  After a year and lack of support, it was put on hold for over a year until ACN was born.  Module was then finished that year.  Wolfstar was the head Dungeon Master originally.  Elwoodini was the first host, serving for 4 years straight.  Qwen and Karyn Asher hosted BETA v2 of ACN later on, with Elwoodini hosting v2 full time after BETA ended.  Desi has relieved me (Milliorn) of forum/website work for almost 4 years now.  The only Dungeon Master to serve on both v1 and v2 of ACN was Wolfstar (their has been many that has come and gone).  The longest faithful member of ACN as a player and later on retired Dungeon Master, Durf, who has played ACN since its official launch, still plays to this day over five years later.  Many other members rival Durf's commitment such as the Legion of The Damned Guild, who has played ACN for nearly 5 years now."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "A Carpathian Nightmare v3"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "Welcome_Journal"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "You cannot sell items directly to a Merchant EXCEPT to the Market Merchant.  However, you can drop an item for gold, an that item is sent to the Market to be for sale by the Market Merchant.  If you want to split loot with your party, use the Party Loot Splitter inside the Market.  All items unacquired will be sent to the market unless bartered.  Every hour the Market purges its inventory. Items are bought at a rate of 10% of there value."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "How to sell items"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 3
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "Merchants_Journal"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 2,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "Level 1-7 (West of Town)\n\nTown Crypt(Carpathia)\nCarpathian Forest\nForest Ruins\n\nLevel 5-12 (North of Carpathian Forest)\n\nPripet Marshes\nPripet Mansion\n\nLevel 10-17 (North of Town)\n\nRucar-Bran Groove \nGödöllo Hills \nQueen's Hive\nLizard's Den\n\nLevel 15-22 (Gödöllo Hills)\n\nCarpathian Highlands Crossroads\nVáh Valley Land \nVáh Valley Coven\nHouse of Gödöllo \n\nLevel 20-27 (Northeast of Town)\n\nOravská Magura - Lower\nOravská Magura - Upper\nKjempe's Hole\n\nLevel 25-32 (East of Oravská Magura)\n\nApuseni Mountain\nApuseni Cave\nLipova Plateau \n\nLevel 30-37 (East of Town)\n\nSilesian Beskids \nSilesian Desert\nSilesian Volcano\n\nLevel 33-40+\n\nDracul's Nest(East of Town)\nDracul's Manor\nGauntlet (Silesian Wasteland)\nMoravian Sewer\nSanctuary of the Souless(South Carpathia)\nAsterius Maze(Silesian Meadow, south of Gauntlet)\nRavana's Coven\n\nPlots, Puzzles, an Quest:\n\nAsterius Maze\nSanctuary of the Souless\nRavana's Tunnels\nDracul Manor\nGauntlet\n\nCamp Zones:\n\nLizard's Den\nHouse of Godollo\nOravská Magura Cave\nApuseni Cave\nRavana's Coven\nHouse of Gödöllo "
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Map Directory"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 3
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "Areas_Journal"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 3,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "Barbarian Rages:\nMighty rage and greater rage stack. Normal rage and greater rage do not stack. Epic rages (Thundering, Terrifying) are applied to normal rage and not to mighty rage.\n\nALL RAGES:\n Level Modifier: 1= +2, 10= +3, 20= +4, 30= +5, 40= +6\n Duration: (Level Modifier * CON mod) Duration\n\nBarbarian Rage / Greater Rage\n -2 AC +2 AB if less than Level 15\n -1 AC +4 AB if less than Level 40\n -0 AC +6 AB = Level 40\n\n Discipline Bonus = Constition Modifier / 2 \n STR & CON Bonus = Level Modifier * 2\n Will Saves Bonus = 3 + Level Modifier\n\nThundering Rage Add-On:\n 2d8, 2d10 or 2d12 Sonic damage (Level Mod 4,5,6)\n Reflex Saves Bonus = Level Modifier\n Main weapon gains On Hit Deafness DC 14 + Level Modifier * 2 (18 min, max 26)\n\nTerrifying Rage Add-On:\n Terrifying Rage Pulse every 4 rounds for Duration of Rage\n DC = Barbarian Level + Intimidate Skill Rank / 2\n On Failed Will Save\n  if Level = BarbarianLevels = Fear 1-3 rounds, % chance of Fear Paralysis\n  if Level = BarbarianLevels * 2 =  AC / Saves Decreased by 2 for 2-4 rounds\n\nMighty Rage:\n Weapons gain 2d8, 2d10 or 2d12 Massive Criticals damage (Level Mod 4, 5, 6)\n (BarbLevel*BarbLevel)/8 Temporary Hitpoints (50-200)\n (LevelModifier-2) AB (2-4)\n LevelModifier Fort Saves (4-6)\n LevelModifier Initimidate (4-6)\n 1+LevelModifier Elemental Resistance (5-7)\n\nBone Skin: +1 bonus to their AC at 1st, 4th, 8th, 12th, 16th, 20th, 24th, and 28th class levels. \n\nDeathless Mastery Touch:  DC = 17 + Palemaster Class Level\n\nDisarm & Improved Disarm - Weapon falls into Targets inventory.\n\nEpic Spell - Epic Warding:  Damage Reduction 20/+20) up to 50 * (Caster Level / 2) Damage.  Lasts 1 round per level   \n\nEpic Spell - Epic Mage Armor:  +5 Shield AC Bonus included in the spell description.\n\nEvasion:  Ranger receives at class level 2.\n\nPoint Blank Shot:  Ranger receives at class level 2.\n\nRapid Shot: Ranger Receives at class level 2."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Nerfs - Feats I"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 3
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "Feats_Journal"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "Shadow Evade:  6 * Shadowdancer Class Level is duration.  New progression as followed.\n\nLevel\nDamage Reduction\nConcealment\nAC Bonus\n\n(Level 4)\n5/ +1\n%19\n+1\n\n(Level 6)\n5/ +2\n%21\n+2\n\n(Level 8)\n10/ +2\n%23\n+3\n\n(Level 10)\n10/ +3\n%35\n+4\n\n(Level 15)\n12/ +4\n%45\n+5\n\n(Level 20)\n14/ +5\n%50\n+6\n\n(Level 25)\n16/ +6\n%55\n+7\n\n(Level 30)\n18/ +7\n%60\n+8\n\n"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Nerfs - Feats II"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 3
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "nerf_feats_2_journal"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "Any spells casted upon yourself will Sharespell with your henchman.  Aoe spells will not stack!\n\nAll Dispell Magic:\n InnateLevel: Lesser=3, Dispel=5, Greater=7, Mords=9 \n DispelLevel: Lesser=1, Dispel=2, Greater=3, Mords=4 \n Caster DC Formula = d20() + SpellFocuses + CasterLevel - (9-InnateLevel) \n Effect Creator DC Formula = 16 + SpellDefenseBonus + CasterLevel \n\nBy Spell, Caster gets: \n Lesser = -15 levels \n Dispel = -10 levels \n Greater = -5 levels \n Mords = straight lvl v lvl dispel with a Breach twist of some sort we can hammer out later.\n\nGreater Sanctuary:  This spell is disabled due to no saving throw.\n\nTrue Seeing:  Duration is Caster Level / 2."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Nerfs - Spells"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 3
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "Spell_Journal"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "Modified 3.0 Compliant UMD / Spellcraft script enabled.  \n\nSpellcraft DC = 50\nBase UMD Scroll DC = 40\nSpellcraft Penalty DC = 5 (If you fail a check by more than this amount you are penalized.\nUMD Penalty DC = 5\nDamage Penalty = 3d20\nRandom Effects on Failure: 1 of 25\n\nIf players have either a UMD or Spellcraft skill level\nof 5 or higher and they have both skills, they recieve\na synergy bonus.  This will result in the player (or you)\nseeing a skill level 2 higher than on the character sheet\nbecause BW does not account for this synergy even though\nit is a standard 3E rule.  The code then appropriately decides\nwhich skill to use (either craft or UMD) after this synergy\nadjustment is made.  Every UMD spell casted is shared with your henchman."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Nerfs - UMD"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 3
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "UMD_Journal"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 7,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "Current {DM} Roster:\n\nMilliorn{DM} - Developer\nTartMaster{DM} - Host\nBastard{DM} - Tourney Master\n\nAcceptable DM Punishments\n\n1.  Verbal Warning\n2.  Death\n3.  Loss of XP/GP\n4.  Jail\n5.  Loss of ITEMS\n6.  Current character DELETED       \n7.  All character's DELETED\n8.  Temporary Banishment (based on Milliorn an Staff)\n9.  Permanent Banishment (discretion of Milliorn)\n\nBasically anything we want, though we try to be reasonable and kind as possible."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Punishment"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 3
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "Dungeon_Masters_Journal"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "Make sure you leave one tab free of ANY items in the event a script strips off your equipped items.  Final warning, no refunds.\nIf you are caught with an item that is forbidden, it will be confiscated with notice and without a refund either by script or DM.\n\nIllegal gear for example be anything that exceeds what the following...\n\n   * MAXIMUM Item Property Slots: 3\n   * Enhancement Bonus: +5\n   * Attack Bonus: +5\n   * Armor Class: +5\n   * Ability Bonus: +3\n   * Damage Reduction: None\n   * Damage Resistance: -5 Elemental\n   * Haste: Script (Automatic, rest)\n   * Immunity: None\n   * On-Hit: None\n   * Regeneration: +2\n   * Saving Throws: +4\n   * Spell Resistance: None\n   * Damage Bonus: 1d12 & 2d6\n   * Keen: Allowed\n   * Vampiric Regeneration: +6\n   * Bonus Feat: None\n   * Bonus Spell Slot: None\n   * Cast Spell: Staves, Wands, and Rods\n   * Darkvision: Allowed\n   * Freedom of Movement: None\n   * Improved Evasion: None\n   * Light: Allowed\n   * Skill Point Bonus: +5\n   * True Seeing: None\n   * Extra Ranged Bonus: Allowed\n   * Holy Avenger: None\n   * Massive Critical Damage Bonus: 2d12\n   * Visual Effects: Allowed\n   * Mighty: +12"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Ruleset - Items"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 3
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "Items_Journal"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "1. No Griefing!!! This is defined as...\n\nGriefers differ from typical players in that they do not play the game in order to achieve objectives defined by the game world. Instead, they seek to harass other players, causing grief. In particular, they may use tools such as stalking, hurling insults, and exploiting unintended game mechanics. Griefing as a gaming play style is not simply any action that may be considered morally incorrect.\n\nThe use or abuse of a game mechanic that was not intended by the game's developers.\nThe inability of the victim to exact some means of retribution beyond utilizing similar unintended game mechanics.\nThe intended purpose of an act of griefing must be to negatively impact the gameplay of another person.\n\nPlayers will often consider the following actions to constitute griefing: kill stealing, spamming, team killing (or team wounding), team flashing, door or path blocking, ninja looting, spawn camping, and corpse camping.\n\n2.  No resurrecting a player after you PK them with intent to PK them again.\n\n3.  Do not hunt Players unless they have bounties.  You may PK them but excessive tracking a player that does not have a bounty can be considered Griefing, an Harrasment.\n\n4.  Do not Camp an area with intent to PvP UNLESS its a designated Camp Zone as listed in the journal.  You must keep transisting map to map (but not exploiting the transistion areas).\n\n5.  Never set a Trap, or go Hostile on a Spawn Point or Area Transistion.\n\n6.  No Pickpocketing in Arena (Script Enforced).\n\n7.  No Spamming Pickpocket anytime!  Once every 12 seconds).  Dungeon Masters are notified of every theft made.  If you try to pickpocket more than allowed you are subject to being punished (Script Enforced)."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Ruleset - PvP"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 3
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "PvP_Rules_Journal "
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 10,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "A Carpathian Nightmare Ruleset\n\n1.  A DM can enforce a new rule at anytime, written or verbal.  Do not argue or contest it.  If you have a problem with it, contact the forums an post your thoughts there.\n\n2.  A DM is always right and has the final judgement.  Do not contest the DM's in game.  They inside the game are always right.  To dispute an debate about the matter,  login to the forums an post there.\n\n3.  Any hostile actions are ONLY allowed in PVP areas, \n\n6.  NO farming or camping UNLESS you are in a Camp Zone as listed in your journal.\n\n7.  NO boss camping. (Script Enforced).\n\n8.  DM's will NOT replace any cash or items so do NOT ask or complain.  \n\n9.  Use the Carpathian Bank at your own risk.  No refunds!\n\n10.  NO abusing Bugs, Exploits, Haks, Cheats...nothing!\n\n11.  Do not harrase players in Tell Channel.  Server keeps a text log of all TELL conversations, that is your warning. \n  \n12.  No spamming on shout.  Extreme foul language is prohibited regardless of how often in shout.  \n\n14.  No disturbing someones bank chest when that chest is open (Script Enforced).\n\n15.  No Trap Stacking! (Script Enforced).  Must separate them by at least 2 meters."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Ruleset - Server"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 3
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "Server_Rules_Journal"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 11,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "Blackstaff:  +6 Enhancement Bonus + On-Hit Dispell DC 26\n\nBigby Spells:  All except Interposing Hand Respect a new Discpline Check if you fail your SR check.  All Bigby spells have a duration of Caster Level / 4.\n\nFear:  All Fear spells except Barbarian Rage Fear has a maximum duration of d3 rounds.\n\nIsaacs Greater Missile Storm: Up to 20 missiles, each doing 1d6 damage to each target in area.\n\nMestil's Acid Sheath & Elemental Shield do not stack.  Mestil's damage is 1d6 +  (Caster Level / 2) Mestil gives 50% Acid Immunity.\n\nTime Stop:  Respects Reflex Save against all targets within a 30 meter range.  DC = Caster Level + Spell DC - d20.  Duration = 12 seconds(two rounds).\n\nTrue Strike: 12 seconds duration.\n"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Spells - Arcane"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 3
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "spells_arcane"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 12,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "Blade Thirst: Grants a +5 enhancement bonus to a slashing weapon with a 2d6 slashng damage bonus.\n\nGreater Magic Fang: Animal companion, giving it +1 to hit and +1 to damage for every three levels of the caster (maximum of +10).  Grants the creature damage reduction and enhancement bonus equal to the hit/damage bonus \n\nGreater Restoration: does not heal anymore.\n\nHarm - 10 points of damage per caster level (max. of 400 at level 40).  On successful will save, harm deals half this amount, but it cannot reduce the target's hit points to less than 1.  If used on an undead creature, harm acts like heal.\n\nHeal - 10 hit points per caster level (max. of 400 hit points at level 40)  Heal will not remove neg. levels or permanent ability score damage.  If used on an undead creature, heal acts like harm.\n\nMass Heal: Same as 'Heal' but all members in the radius gain the effect.\n\nOne With The Land:  +4 + 1d4 bonus to Listen, Hide, Move Silently, Spot. \n\nWildshape(Druid/Shifter):  Equipped items mesh with your shifted form.  AC does not stack.  "
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Spells - Divine"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 3
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "spells_divine"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 13,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "0": "September 29th, 2010\n\nThere should be no way to remove Bone Skin AC changes by script.\n\n\nSeptember 28, 2010\n\nBone Skin description updated.  Check journal entry.\nSilesian Desert, Silesian Wasteland, and Litencice Cliff redesigned by Harley.\nAnother fix for Blade Thirst (appears broken)\n\nSeptember 27th, 2010\n\nSilesian Beskids map redesigned.  Silesian Volcano entranced moved to this map.  Thanks Harley.\nSilesian Meadow (Asterius Maze) now east of Silesian Oasis in place of Dracul Run, as it is being remodeled itself.\nOnly one bindstone now in Silesian Oasis; bindstones removed in Gauntlet Entrance and Litencice Gate.\nSanctuary of the Souless removed to be relocated when southern leg of Carpathia is finshed.\nRanger Class improvements now fixed.  Thanks Scorn.\nBlade of Thirst improvements now work on Ranger only, otherwise default spell description applies.  Must take Ranger Class levels to activate it.\nFixed transition in South Carpathia\nUpdated Pickpocket script description.  Pickpocket once per 2 rounds (12 seconds).  Failure to do so will leave you knockdown and flat-footed.\n\nSeptember 24th, 2010\n\nFixed duration on Blade Thirst.  Keen is now included as well.\nRanger Class now gains Evasion, Point Blank Shot, and Rapid Shot at level 2.\nFixed Zombie playable race description.\n\nSeptember 23th, 2010\n\nShadow Evade feat updated.  Now listed in the journal.\nSharespell should now work on your familiars and summons when you cast a buff upon yourself.\n\nSeptember 22th, 2010\n\nZombie playable race now has a faster movement speed.\nAdded Chat Commands List back to newly created characters.\nMade new journal entries to organize changes in spells.\nGreater Magic Fang, One with the Land, Blade thirst spell improved.\n\nSeptember 20th, 2010\n\nUpdated the Gauntlet Exodus Mini-Boss death script to a lower reward.  Old script was enabling people to jump to 60 in a day which I felt was too fast.\nEpic Spell - Epic Armor Mage now gives an additional +5 Shield AC.\nEpic Spell description in journal has moved from Nerfs - Spells to Nerfs - Feats.\nConverting over NPC's that despawn off a psuedo-timer to despawn, to just a OnExit Area Event call.  What this means is tha NO NPC will despawn untill ALL players have left the area.  This should fix a lot of despawning that occurs randomly while in battle, along with he Gauntlet Exodus Final Battle.  Please report any bugs that appear to from either NPC's not despawning, to objects left in the ground after PC's leave the area, to possible lag spikes from too many spawns NPC's.\n\nSeptember 18th, 2010\n\nScroll Crafting works again.\nApuseni Cave door fixed.\nRemoved Spell Immunity, adjusted Damage Soak, and removed sneak damage immunity from Lichs, Demi-lichs, and Gauntlet Master in Gauntlet 9 and Exodus.\n\nSeptember 17th, 2010\n\nNew Dungeon Master added to {DM} Roster.\nUpdated Raks in Ravana Coven.  Removed there Magic Immunity so casters can utilize its camp zone.  Increased its DR and decreased its soak.\nNew Camp Zone added, Oravská Magura - Apuseni Cave, located at Oravská Magura - Apuseni Mountain.  \nFixed an issue where Moravian Gem shop would not reload gems back into the merchant inventory once everyone left the shop and returned.\nRedrawn the spawn points in Asterius Stronghold.\nRemoved the silence trigger in Asterius Maze.\nFew tweaks to the Ravana reward script.\n\nSeptember 16th, 2010\n\nUpdated Vampire Undead Race description.  Thanks Scorn!\nAdded signs to describe the entrances to maps (like Pripet Marsh, etc).  West path of town is complete.  \n\nSeptember 15th, 2010\n\nTrue Seeing in Journal description.\nFixed the dialog with character setup npc in Clocktower.  Now tells you to only reroll your last level.\nMummy Undead Race has been edited.  It's speed has been improved slightly.\nXP Bank moved to a separate room (again) inside Bank.\nGate spell removed from boss Lord Pripet.\nOravská Magura Cave encounters now spawn faster.\nVarious small journal updates.\n\nSeptember 13th, 2010\n\nTrue Seeing changed for the last time.  Either it stays this way, or it becomes disabled.\nAdjusted Persistant stats script.\nRemoved and corrected some Gauntlet gear.\n\nSeptember 12th, 2010\n\nPersistant stats script enabled.  You will have the same stats you had when you logged out when you log back in.\nGauntlet Shop has new gear in it.\n\nSeptember 11th, 2010\n\nMore tweaking done to the loot tables. \nMore gold given upon creation.\nRemoved implosion from a few NPC's.\n\nSeptember 10th, 2010\n\nFurther tweaks to the XP script.\n\nSeptember 9th, 2010\n\nAcid Sheath spell now gives 50% Acid Immunity.\nTrue Seeing Spell fixed and adjusted.\nRemoved languages, set tails/wings, and set item name command from Simtools due to server crashing.  You can still modify tails, wings, etc. in Clocktower.  You can set item name in the Item Scribe Shop in town.\n\nSeptember 8th, 2010\n\nRemoved Lens of Detection from Misc. Shop.\nFixed Forge door close script.\nDecreased respawn timer by half in Oravská Magura Cave.\nRemoved Implosion from Kjempe's Trolls spell list.\nAdded boss treasure to Turzovka Highlands Boss.\nMore horse resources removed.  Hope that will fix some current issues.\nXP reward for killing NPC's slightly increased.\nVah Valley encounters adjusted.  Removed implosion spell from casters.\nSundial script adjusted.\n\nSeptember 7th, 2010\n\nMust be within five leve range to receive XP rewards from NPC deaths or Boss scripts.\nMoravian Sewers moved to South Carpathia.  Gem shop will be the new reward.\nSanctuary of the Souless entrance is now found in South Carpathia.\nYou must choose a Good or Evil alignment prior to using XP Bank.\nSilesian Meadow (south of Gauntlet Entrance) now houses Asterius Maze.  Asterius Maze is the new home of the ACN Casino.\nYou now access Vah Valley Land through Gödöllo Hills.\nTurzovka Highlands (Level 10) is now accessible through Pripet Marsh (old exit into Highland Crossroads)\nRemoved a few items in the Item Merchant list.  They are deemed broken until fixed.  If you wish to see an item that was removed reinstated, post on the forums of the item, and its item properties and I will attempt some form of fix, perhaps making a similar one.\n\nSeptember 5th, 2010\n\nUpdated a fix for Subraces.\nDisabled Horses outright.  They are breaking the subrace engine.\nUpdated the bank scripts to return the correct balance."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Updates"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "Updates_Journal"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "__data_type": "UTE ",
+  "Active": {
+    "type": "byte",
+    "value": 1
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "CreatureList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 421
+        },
+        "CR": {
+          "type": "float",
+          "value": 55.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "adamantinedemon"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 24
+        },
+        "CR": {
+          "type": "float",
+          "value": 55.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "bonedemon"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 91
+        },
+        "CR": {
+          "type": "float",
+          "value": 55.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "claydemon"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 100
+        },
+        "CR": {
+          "type": "float",
+          "value": 55.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "helmhorr003"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 468
+        },
+        "CR": {
+          "type": "float",
+          "value": 55.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "demonflesh"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 88
+        },
+        "CR": {
+          "type": "float",
+          "value": 55.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "fleshdemon"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 89
+        },
+        "CR": {
+          "type": "float",
+          "value": 55.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "irondemon"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 420
+        },
+        "CR": {
+          "type": "float",
+          "value": 55.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "mithraldemon"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 119
+        },
+        "CR": {
+          "type": "float",
+          "value": 55.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "necrogon"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 90
+        },
+        "CR": {
+          "type": "float",
+          "value": 55.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "shielddemon"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 92
+        },
+        "CR": {
+          "type": "float",
+          "value": 55.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "stonedemon"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "Difficulty": {
+    "type": "int",
+    "value": 0
+  },
+  "DifficultyIndex": {
+    "type": "int",
+    "value": 4
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Gauntlet Construct CR 55",
+      "id": 91346
+    }
+  },
+  "MaxCreatures": {
+    "type": "int",
+    "value": 3
+  },
+  "OnEntered": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnExhausted": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnExit": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnHeartbeat": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnUserDefined": {
+    "type": "resref",
+    "value": ""
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 1
+  },
+  "PlayerOnly": {
+    "type": "byte",
+    "value": 1
+  },
+  "RecCreatures": {
+    "type": "int",
+    "value": 3
+  },
+  "Reset": {
+    "type": "byte",
+    "value": 1
+  },
+  "ResetTime": {
+    "type": "int",
+    "value": 600
+  },
+  "Respawns": {
+    "type": "int",
+    "value": -1
+  },
+  "SpawnOption": {
+    "type": "int",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "GauntletConstructCR55"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "golem004"
+  }
+}

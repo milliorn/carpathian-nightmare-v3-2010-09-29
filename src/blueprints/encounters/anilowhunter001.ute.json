@@ -1,0 +1,304 @@
+{
+  "__data_type": "UTE ",
+  "Active": {
+    "type": "byte",
+    "value": 1
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "CreatureList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 8
+        },
+        "CR": {
+          "type": "float",
+          "value": 5.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "badger001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 12
+        },
+        "CR": {
+          "type": "float",
+          "value": 5.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "bearblck001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 9
+        },
+        "CR": {
+          "type": "float",
+          "value": 5.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "direbadg001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 22
+        },
+        "CR": {
+          "type": "float",
+          "value": 5.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "boardire001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 176
+        },
+        "CR": {
+          "type": "float",
+          "value": 5.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "dog001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 98
+        },
+        "CR": {
+          "type": "float",
+          "value": 5.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "jaguar001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 93
+        },
+        "CR": {
+          "type": "float",
+          "value": 5.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "cat001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 97
+        },
+        "CR": {
+          "type": "float",
+          "value": 5.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "lion001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 202
+        },
+        "CR": {
+          "type": "float",
+          "value": 5.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "panther001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 181
+        },
+        "CR": {
+          "type": "float",
+          "value": 5.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "wolf001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Appearance": {
+          "type": "int",
+          "value": 185
+        },
+        "CR": {
+          "type": "float",
+          "value": 5.0
+        },
+        "ResRef": {
+          "type": "resref",
+          "value": "worg001"
+        },
+        "SingleSpawn": {
+          "type": "byte",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "Difficulty": {
+    "type": "int",
+    "value": 0
+  },
+  "DifficultyIndex": {
+    "type": "int",
+    "value": 0
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Forest NPC's CR 5",
+      "id": 14466
+    }
+  },
+  "MaxCreatures": {
+    "type": "int",
+    "value": 1
+  },
+  "OnEntered": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnExhausted": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnExit": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnHeartbeat": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnUserDefined": {
+    "type": "resref",
+    "value": ""
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 0
+  },
+  "PlayerOnly": {
+    "type": "byte",
+    "value": 1
+  },
+  "RecCreatures": {
+    "type": "int",
+    "value": 1
+  },
+  "Reset": {
+    "type": "byte",
+    "value": 1
+  },
+  "ResetTime": {
+    "type": "int",
+    "value": 600
+  },
+  "Respawns": {
+    "type": "int",
+    "value": -1
+  },
+  "SpawnOption": {
+    "type": "int",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "ForestNPCsCR5"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "anilowhunter001"
+  }
+}

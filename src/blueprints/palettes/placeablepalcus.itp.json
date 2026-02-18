@@ -1,0 +1,589 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 7
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6783
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 22
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 111663
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 6
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "ACN Deposit Box #"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "omegaforge002"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bag of Gold"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bagofgold"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Create Table"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "pullrope001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Omega Forge"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "omegaforge1"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6782
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 8
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6784
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 9
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 1592
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 10
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6785
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 11
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6786
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 12
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Cheetah's Summon Spell Changes"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ch_summonsign"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "XP Corpse"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "headstone001"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6787
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 14
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Deadly Fire Trap Set"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "trapset004"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Deadly Frost Trap Set"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "trapset006"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Deadly Holy Trap Set"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "trapset002"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Deadly Sonic Trap Set"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "trapset005"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Deadly Spike Trap Set"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "trapset001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Deadly Tangle Trap Set"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "trapset003"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 9122
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 15
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 9128
+        }
+      },
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 0
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Boss Treasure"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treasure_boss"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "chest005"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Crate"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "chest004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Crystal"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "chest011"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fireworks Lever"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "flrlever003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fireworks Source"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "fireworkssource"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Loot"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "towncryptches001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moravian Gate Bind Stone"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "bindingstone"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Persistent Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sfpb_chest"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Treasure"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treasure_souless"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6688
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 1
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fireworks Wand Target"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "wandfireworktarg"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Large Fireworks Target"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "fireworksltarget"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Medium Fireworks Target"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "fireworksmtarget"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Small Fireworks Target"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "fireworksstarget"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6689
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 2
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6690
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 3
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6691
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 4
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6692
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6687
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 13
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6788
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 16
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 17
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 62485
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 19
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5836
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 21
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 67585
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 20
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 53151
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 18
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 67132
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 66490
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6781
+        }
+      }
+    ]
+  }
+}
